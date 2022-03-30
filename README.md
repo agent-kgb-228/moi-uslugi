@@ -225,5 +225,32 @@
  <li>Эл. почта: <a href="mailto:bobyorstroimarket@yandex.ru" style="margin: 0%; padding: 0%;"
                    target="_blank">bobyorstroimarket@yandex.ru</a></li>
             </ul>
+            <hr>
+                <h3 style="text-align: center;">Примечания</h3>
+                <ol>
+                    <li><b style="font-family: Arial, Helvetica, sans-serif ;">INOAGENT</b>(в широком смысле) - статус
+                        который присваивается
+                        пользователю, который не платил вовремя сумму, не соблюдал требования договора и представлял
+                        наши
+                        готвые
+                        услуги
+                        человеку у которого нет договора о сотрудничестве с нами или помогал, благодаря нам, другу и пр.
+                        лицам.
+                    </li>
+                    <li><b style="font-family: Arial, Helvetica, sans-serif ;">INOAGENT III степени</b> - накладывает
+                        небольшие ограничения, снижение типа подписки на 1 (Премиум &rarr; Классическая)</li>
+                    <li><b style="font-family: Arial, Helvetica, sans-serif ;">INOAGENT II степени</b> - накладывает
+                        средние ограничения, снижение типа подписки на 2 (Премиум &rarr; Лимитированная)</li>
+                    <li><b style="font-family: Arial, Helvetica, sans-serif ;">INOAGENT I степени</b> - накладывает
+                        жесткие ограничения, запрещается оформлять подписки. Данный стаутс невозможо снять</li>
+                    <li>Комиссия 0%, но может взыматься комиссия со стороны бакнка клиента (Комиссия через Сбер - 0%)
+                    </li>
+                    <li>Комиссия 0%</li>
+                    <li>Если у вас сбер и вы не знаете как подключиться к СБП вся информация на <a target="_blank"
+                            href="https://www.sberbank.ru/ru/person/remittance/sbp"
+                            style="margin: 0%; padding: 0%; color: red;">на
+                            сайте СберБанка</a> </li>
+                </ol>
+
          
  
