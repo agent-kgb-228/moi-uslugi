@@ -1,18 +1,7 @@
  <h1>&#128196;Информация об оплате&#128196;</h1>
-            <p>Здесь будут представлены все тарифы, подписки и правила. <b>Мы настоятельно
-                    рекомендуем прочитать наши правила и сноски.</b> Дата опубликации 06.02.2022</p>
-            <h2>Ссылки</h2>
-            <dl>
-                <li><a href="https://forms.yandex.ru/u/6127c718ea6cca52cc7f898f/" style="margin: 0%; padding: 0%;"
-                        target="_blank">Форма №1. Заявка на получение услуг от
-                        "БобёрСтройМаркет"</a></li>
-                <li><a href="https://forms.yandex.ru/u/61b364e68ffbd713d445bee3/" style="margin: 0%; padding: 0%;"
-                        target="_blank">Форма №2. Оказание услуг</a></li>
-                <li><a href="https://forms.yandex.ru/u/6217681e41a61ebe0ebdee45/" style="margin: 0%; padding: 0%;"
-                        target="_blank">Форма №3. Заявка на отказ получения услуг от "БобёрСтройМаркет"</a></li>
-            </dl>
-            <p>Эл. почта: <a href="mailto:bobyorstroimarket@yandex.ru" style="margin: 0%; padding: 0%;"
-                    target="_blank">bobyorstroimarket@yandex.ru</a></p>
+          <p>Здесь будут представлены все тарифы, подписки и правила. <b>Мы настоятельно
+                    рекомендуем прочитать наши правила и сноски.</b> Дата опубликации 06.02.2022
+            </p>
             <h2>Правила оказания услуг</h2>
  <ol>
                 <li>Общие понятия
