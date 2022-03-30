@@ -172,7 +172,7 @@
                 </li>
             </ol>
             <br>
-              <h2>Ссылки</h2>
+              <h2 id="links">Ссылки</h2>
             <ul>
                 <li><a href="https://forms.yandex.ru/u/6127c718ea6cca52cc7f898f/" style="margin: 0%; padding: 0%;"
                         target="_blank">Форма №1. Заявка на получение услуг от
