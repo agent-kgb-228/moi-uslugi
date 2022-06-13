@@ -24,7 +24,7 @@
 </ol>
 </ol>
 </li>
- </ol>
+</ol>
             <br>
             <img src="https://agent-kgb-228.github.io/X6gj2Q_seKo.jpg" style="border-radius: 10px;">
             <br>
