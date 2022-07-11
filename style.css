@@ -1,0 +1,249 @@
+@import url("https://old.ru-stalin-ussr.ru/russia/fonts/roboto/stylesheet.css");
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url("https://ru-stalin-ussr.ru/989d99ds-1920.jpg"); 
+    background-blend-mode: multiply;
+background-color: #000000e0;     
+background-position: center center;      
+background-repeat: no-repeat;      
+background-attachment: fixed;      
+  background-size: cover;  
+ 
+}
+
+header {
+    height: auto;
+    background: #00000086;
+    display: flex;
+    font-size: 20px;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    font-family: 'Yandex Sans Display';
+    font-weight: bold;
+    font-style: normal;
+    border-bottom: 1px solid black;
+}
+
+header div {
+    color: white;
+    background-color: #155a1500;
+    width: 100%;
+    height: auto;
+    display: flex;
+    font-size: 17px;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.iconka {
+    width: 32px;
+    border: none;
+    border-radius: 0px;
+}
+header a {
+    text-decoration: none;
+    color: #ff0000;
+}
+header a:hover{
+    text-decoration: none;
+    color: #ff8000;
+    transition: 3s;
+}
+main {
+  
+    background: #00000044;    
+ color: #ffffff;
+  /*  background: rgb(255, 199, 0);
+    background: linear-gradient(180deg, rgba(255, 199, 0, 1) 0%, rgba(245, 245, 245, 1) 100%);*/
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+main img{
+    filter: alpha(Opacity=75);
+    opacity: 0.75
+}
+
+main a {
+    text-decoration: none;
+    color: #ff9900;
+
+}
+
+.kote {
+    border: 1px solid red;
+    border-radius: 20px;
+
+}
+
+.kote-money {
+    margin-left: 150px;
+
+}
+
+footer {
+   
+    background: #D52B1E34;
+background: linear-gradient(0deg, #D52B1E34 0%, #D52B1E34 33%, #003aa634 33%, #003aa634 66%, #ffffff34 66%, #ffffff34 100%);
+font-family: 'Yandex Sans Display';
+font-weight: bold;
+font-style: normal;
+    border-top: 1px solid #000000;
+    color: #ffffff;
+}
+
+footer a {
+    text-decoration: none;
+    color: #000000;
+}
+footer a:hover {
+    text-decoration: none;
+    color: #ff8000;
+    transition: 3s;
+}
+@media (max-width: 800px) {
+    img {
+        width: 100%;
+        border-radius: 10px;
+        border: 1px solid #000000;
+        width: 100%;  
+    }
+}
+
+@media (min-width: 801px) {
+    img {
+        width: 500px;
+        border-radius: 10px;
+        border: 1px solid #000000;
+    }
+    form{
+        width: 500px;  
+    }
+}
+/*start style forms*/
+form {
+    background: url("https://old.ru-stalin-ussr.ru/russia/maxresdefault-2.jpg");
+    background-blend-mode: multiply;
+    background-color: #00000000;     
+    background-position: center center;      
+   background-repeat: no-repeat;      
+     
+      background-size: cover; 
+      filter: alpha(Opacity=75);
+      opacity: 0.76;
+
+
+    padding: 2%;
+    border-radius: 10px;
+    border: #000000 solid 1px;
+    font-family: 'Yandex Sans Display';
+    font-weight: bold;
+    font-style: normal;
+    color: #000000;
+    margin: 0px auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+INPUT[type="text"] {
+    background-color: #00000044;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+
+    border-radius: 5px;
+    border: #ffffff 1px solid;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+INPUT[type="number"] {
+    background-color: #00000044;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+
+    border-radius: 5px;
+    border: #ffffff 1px solid;
+    text-align: center;
+}
+
+
+form label {
+    margin-left: 35px;
+    color: #ffffff;
+}
+/*end style forms*/
+footer img {
+    width: 100px;
+    border-radius: 10px;
+    border: 1px solid #000000;
+}
+
+.re {
+    color: #ffffff;
+    width: 100%;
+    height: auto;
+    display: flex;
+
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.re a {
+    color: #ffffff;
+}
+
+button {
+
+    text-align: center;
+
+}
+
+.uroks {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.informer {
+    margin: 0px auto;
+}
+
+/*block market*/
+.market{
+    background: #3f3f3f7e;
+    border: 1px solid #ffffff;
+    border-radius: 15px;
+    margin: 2px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.market h5, h6{
+    text-align: center;
+}
+.market p{
+    text-align: center;
+}
+.market-tovar{
+    background: #3f3f3f7e;
+}
+.market a{
+    display: block; text-align: center;
+} 
+.market img{
+    border: none;
+    border-radius: 10px;
+}
+/**/
