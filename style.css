@@ -52,7 +52,7 @@ header a {
 header a:hover{
     text-decoration: none;
     color: #ff8000;
-    transition: 3s;
+    transition: 0.5s;
 }
 main {
   
@@ -74,7 +74,11 @@ main a {
     color: #ff9900;
 
 }
-
+main a:hover{
+    text-decoration: none;
+    color: #ff0000;
+    transition: 0.5s;
+}
 .kote {
     border: 1px solid red;
     border-radius: 20px;
@@ -121,32 +125,16 @@ footer a:hover {
         border-radius: 10px;
         border: 1px solid #000000;
     }
-    form{
-        width: 500px;  
-    }
+
 }
 /*start style forms*/
 form {
-    background: url("https://old.ru-stalin-ussr.ru/russia/maxresdefault-2.jpg");
-    background-blend-mode: multiply;
-    background-color: #00000000;     
-    background-position: center center;      
-   background-repeat: no-repeat;      
-     
-      background-size: cover; 
-      filter: alpha(Opacity=75);
-      opacity: 0.76;
-
-
-    padding: 2%;
-    border-radius: 10px;
-    border: #000000 solid 1px;
     font-family: 'Yandex Sans Display';
     font-weight: bold;
     font-style: normal;
     color: #000000;
-    margin: 0px auto;
-    font-family: Arial, Helvetica, sans-serif;
+ 
+
 
 }
 
@@ -154,7 +142,10 @@ INPUT[type="text"] {
     background-color: #00000044;
     color: rgb(255, 255, 255);
     border-radius: 5px;
-
+    font-family: 'Yandex Sans Display';
+    font-weight: bold;
+    font-style: normal;
+  
     border-radius: 5px;
     border: #ffffff 1px solid;
     margin-bottom: 5px;
@@ -165,7 +156,10 @@ INPUT[type="number"] {
     background-color: #00000044;
     color: rgb(255, 255, 255);
     border-radius: 5px;
-
+    font-family: 'Yandex Sans Display';
+    font-weight: bold;
+    font-style: normal;
+  
     border-radius: 5px;
     border: #ffffff 1px solid;
     text-align: center;
